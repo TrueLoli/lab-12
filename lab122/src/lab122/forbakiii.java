@@ -6,5 +6,5 @@ public class forbakiii {
 		// TODO Auto-generated method stub
 
 	}
-	sysout(Hello Mu name Baki)
+	System.out.print("Baki Muugiigiin repog ynzallaa");
 }
